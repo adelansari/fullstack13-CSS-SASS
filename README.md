@@ -18,3 +18,5 @@ texts with some styles are enough.
 
 1. Using SASS (either .sass or .scss) for styling
 2. Make use of variables, mixin, extend
+
+Will update this later
